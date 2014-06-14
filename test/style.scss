@@ -20,7 +20,7 @@ $gutter_spacing: flex-gutter($parent-columns);
 
 
 // Chaser
-@import "../src/chaser";
+@import "../src/chaser/chaser";
 
 // Demo
 @import "demo";
