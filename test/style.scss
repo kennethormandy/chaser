@@ -19,9 +19,8 @@ $show_media_queries : true; // src/scss/mixins/media-query-helper.scss
 $gutter_spacing: flex-gutter($parent-columns);
 
 
-// Mixins
-@import "mixins";
-@import "../src/omega-reset";
+// Chaser
+@import "../src/chaser";
 
 // Demo
 @import "demo";
